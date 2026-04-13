@@ -9,39 +9,19 @@ An interactive Microsoft Excel Sales Dashboard built to analyse Kmart's retail p
 
 The dashboard contains 9 interactive charts controlled by slicers (Type, Financial Year, State, Category), allowing dynamic filtering across all visuals simultaneously.
 
-KPI Summary Cards
-MetricValueTotal Sales$3,186,258Avg Sales per Transaction$707Top SuburbFrankstonTop BuyerBruce CurranTop ManagerRachael Long
+<img width="731" height="299" alt="Screenshot 2026-04-13 100457" src="https://github.com/user-attachments/assets/3f8d854a-a3c6-4bfc-a06d-109d91d18355" />
 
 
 
-📈 Charts Included
 
-Total Sales Over Time — Area chart showing monthly online vs in-store sales trends
-Average Sales Over Time — Line chart comparing average transaction value by channel
-Sales By Category — Horizontal bar chart ranking 10 product categories
-Sales By Suburb (Top 10) — Stacked bar chart of highest performing suburbs
-Online vs Store Proportion — Donut chart (79% Store / 21% Online)
-Sales By Manager — Clustered bar chart comparing manager performance
-Sales By Buyers — 100% stacked bar showing online vs store split per buyer
-State Sparklines — Mini trend lines with total sales per Australian state
-Sales By State Map — Choropleth map of Australia showing sales concentration
+<img width="735" height="366" alt="Screenshot 2026-04-13 100505" src="https://github.com/user-attachments/assets/b5adea13-d6d4-4577-b20b-041ce68e75ba" />
+
 
 ![WhatsApp Image 2026-04-13 at 9 45 21 AM](https://github.com/user-attachments/assets/1c571f9d-d872-415c-bd8e-cac36e51262c)
 
 
+<img width="767" height="435" alt="Screenshot 2026-04-13 100518" src="https://github.com/user-attachments/assets/d783ae64-9f5e-4410-ab96-ce73260c98da" />
 
-🗂️ Dataset Summary
-The raw dataset (Data sheet) includes transactional sales records with the following fields:
-
-Date — Transaction date (Jan 2023 – Dec 2024)
-Type — KMART ONLINE or KMART STORE
-Financial Year — 2023, 2024, 2025
-State — All 8 Australian states/territories
-Suburb — Customer suburb location
-Category — 10 product categories (Clothing & Fashion, Home & Living, Toys & Outdoor Play, Footwear, Beauty & Personal Care, Baby & Nursery, Electronics & Entertainment, Accessories, Stationery & Office Supplies, Party & Gift Wrap)
-Sales — Transaction value in AUD
-Buyer — Customer name
-Manager — Store/region manager name
 
 
 🔧 Tools & Techniques
