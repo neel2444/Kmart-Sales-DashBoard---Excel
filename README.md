@@ -1,7 +1,18 @@
 🛒 Kmart Sales Dashboard
+
+
 An interactive Microsoft Excel Sales Dashboard built to analyse Kmart's retail performance across online and in-store channels over the 2023–2025 financial years.
+
+
 📊 Dashboard Overview
+
+
 The dashboard contains 9 interactive charts controlled by slicers (Type, Financial Year, State, Category), allowing dynamic filtering across all visuals simultaneously.
+
+KPI Summary Cards
+MetricValueTotal Sales$3,186,258Avg Sales per Transaction$707Top SuburbFrankstonTop BuyerBruce CurranTop ManagerRachael Long
+
+
 
 📈 Charts Included
 
